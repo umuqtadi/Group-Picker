@@ -10,6 +10,13 @@ namespace Group_Picker
     {
         static void Main(string[] args)
         {
+            List<string> studentList = new List<string>() { "Umar", "Keith", "Aaron", "Matt", "Mitch", "Kris", "David", "Nathan", "Ryan", "Colton", "Mac", "Lamond", "Mahmoud" };
+
+        }
+
+        static void PickGroup(string studentGroups, int groupSize)
+        {
+
         }
     }
 }
